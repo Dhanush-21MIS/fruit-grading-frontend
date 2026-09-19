@@ -40,7 +40,7 @@ function App() {
         {/* ================= HERO ================= */}
         <section className="hero">
           <div className="hero-badge">
-            AI-POWERED FRUIT GRADING
+            DEEP LEARNING -POWERED FRUIT GRADING
           </div>
 
           <h2>
